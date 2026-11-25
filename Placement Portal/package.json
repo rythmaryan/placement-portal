@@ -1,0 +1,9 @@
+{
+  "name": "upes-placement-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UPES Placement Portal — dependency-free front end that reads live from a Google Sheet.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
